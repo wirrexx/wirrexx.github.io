@@ -13,7 +13,7 @@ As I have a background as a 3D artist in the game industry, I would love to crea
 
 But my future goal is to use my newly learned coding skills and create Plugins for tools that i use (Automation), and maybe, just maybe, mobile game for kids. 
 
-During my **freetime**, you will find me in the gym, watching sports, playing games or ***spending my time with my kids and fianceé!***
+During my **freetime**, you will find me in the gym, watching sports, playing games or ***spending my time with my kids and fiancée!***
 
 So lets sum it up:
 - Wisam is the name
