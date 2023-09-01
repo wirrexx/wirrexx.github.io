@@ -3,7 +3,7 @@
 ### About me! 
 ![](wisam.jpg)
 --
-__Hi__ My name is Wisam Petros Odish, I am a father of **two** beautiful kids, my oldest one, a girl named Kiara and my youngest one, a boy named Keanu. 
+**Hi** My name is Wisam Petros Odish, I am a father of **two** beautiful kids, my oldest one, a girl named Kiara and my youngest one, a boy named Keanu. 
 
 I'm currently happy learning Python backend, although we are still on fundemamentals on how stuff work inside of Linux and the beautiful **Terminal** it comes with. 
 
