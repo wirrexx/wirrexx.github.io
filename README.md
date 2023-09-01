@@ -5,7 +5,7 @@
 [Portfolio](PORTFOLIO.MD)
 
 
-![](wisam.jpg)
+![](wisam.png)
 
 # Welcome Young Padawan!
 ## This will be your intro, to me! 
