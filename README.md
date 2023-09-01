@@ -10,4 +10,6 @@
 # Welcome Young Padawan!
 ## This will be your intro, to me! 
 
-<img src="linkedin.png" alt="https://linkedin.com" width="100" />
+<a href="https://linkedin.com">
+    <img src="linkedin.png" width="100" />
+</a>
