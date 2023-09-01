@@ -6,7 +6,7 @@
 
 
 
-![](wisam.png)
+<img src="wisam.png" width="400" />
 
 # I'll Greet you with my favourite quote. 
 ##  "You Cannot keep doing the same thing, the same way, and keep expecting ***Something*** different to happen.
