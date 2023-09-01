@@ -11,6 +11,6 @@
 # Welcome Young Padawan!
 ## This will be your intro, to me! 
 
-<a href="https://linkedin.com">
+<a href="www.linkedin.com/in/wisam-petros-odish-5b06719a">
     <img src="linkedin.png" width="100" />
 </a>
