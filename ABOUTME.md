@@ -10,8 +10,6 @@ I'm currently happy learning Python backend, although we are still on fundemamen
 
 My goal at the end of my study, is simply to have at least 2 working projects, one intermediate and one advanced. 
 
-As I have a background as a 3D artist in the game industry, I would love to create tools that artist can make use off! Here are some of the stuff I am allowed to show from my experience [Portfolio](https://www.artstation.com/wirrexx/albums/all).
-
 But my future goal is to use my newly learned coding skills and create Plugins for tools that i use (Automation), and maybe, just maybe, mobile game for kids. 
 
 During my **freetime**, you will find me in the gym, watching sports, playing games or ***spending my time with my kids and fiancée!***
