@@ -1,5 +1,6 @@
 
-[Home](HOME.MD)   <!--comment--> 
+[Home](README.md)   <!--comment--> 
+[About ME](ABOUTME.md)
 [Projects](PROJECTS.MD)
 [Portfolio](PORTFOLIO.MD)
 
