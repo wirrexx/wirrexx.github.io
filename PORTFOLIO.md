@@ -1,7 +1,7 @@
 
-[Home](HOME.MD)   <!--comment--> 
-[Projects](PROJECTS.MD)
-[Portfolio](PORTFOLIO.MD)
-
+[Home](README.md)   <!--comment--> 
+[About](ABOUTME.md)
+[Projects](PROJECTS.md)
+[Portfolio](PORTFOLIO.md)
 Here you can see my [***Portfolio***](https://www.artstation.com/wirrexx)! 
 
