@@ -43,9 +43,8 @@ body {
 
 img.Logo {
     position:absolute;
-    border-radius: 25px;
-    margin: 0;
-    left:4px;   top:3px;
+    width: 110px;
+    left: -11px;   top:-20px;
 
 
 }
