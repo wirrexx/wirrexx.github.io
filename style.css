@@ -1,21 +1,23 @@
+body {
+    position: relative;
+}
 .Welcome {
-    border-radius: 20px;
-    background-color: grey;
+    background-color: white;
     text-align: center;
-    padding: 10px;
+    padding: 25px;
 }
 
 .topnav {
     border-radius: 10px;
     overflow: hidden;
-    background-color: darkgrey;
+    background-color: white;
     padding: 5px;
     
 }
 /*on hover change color*/
 .topnav a:hover {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 .topnav {
@@ -27,27 +29,16 @@
     text-decoration: none;
 }
 
-
-
-.background-image {
-    display: grid;
-    place-content: center;
-    text-align: center;
-    min-height: 500;
-    position: relative;
-    isolation: isolate;
+body {
+    background-image: url("background.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
-.background-image ::after {
-    content: '';
-    position: absolute;
-    z-index: -1;
-    inset:0;
-    background: pink;
-    opacity: .6;
-
-    background-image: url("background.jpeg");
-    background-size: cover;
-    background-position: center;
-
+img.logo {
+    position:absolute;
+    border-radius: 25px;
+    top: 316px;
+    left: 428;
 }
