@@ -52,8 +52,20 @@ img.Logo {
 
 .about {
     position: relative;
+    border-radius: 20px;
+    text-align: left;
     background-color: white;
     background-position: center;
     margin: 0;
-    bottom: 0px;
+    bottom: -20px;
+    padding: 10px;
+}
+
+img.Aboutme {
+    position: relative;
+    text-align:left;
+    border-radius:25px;
+    width: 240px;
+    left:5px;
+    bottom:-10px;
 }
