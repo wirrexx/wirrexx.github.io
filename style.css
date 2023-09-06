@@ -22,14 +22,15 @@ body {
 }
 
 .topnav {
-    position: absolute;
-    float:left;
+    position: relative;
+    float:center;
     display: block;
     color: black;
     text-align: center;
-    padding: 5px 10px;
+    padding: 1px 5px;
     text-decoration: none;
-    bottom:-35px;
+    bottom: -10px;
+
     ;
 }
 
@@ -47,4 +48,12 @@ img.Logo {
     left:4px;   top:3px;
 
 
+}
+
+.about {
+    position: relative;
+    background-color: white;
+    background-position: center;
+    margin: 0;
+    bottom: 0px;
 }
