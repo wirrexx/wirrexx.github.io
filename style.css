@@ -3,8 +3,9 @@ body {
 }
 .Welcome {
     background-color: white;
+    border-radius: 30px;
     text-align: center;
-    padding: 25px;
+    padding: 40px;
 }
 
 .topnav {
@@ -21,12 +22,15 @@ body {
 }
 
 .topnav {
+    position: absolute;
     float:left;
     display: block;
     color: black;
     text-align: center;
     padding: 5px 10px;
     text-decoration: none;
+    bottom:-35px;
+    ;
 }
 
 body {
@@ -36,9 +40,11 @@ body {
     background-attachment: fixed;
 }
 
-img.logo {
+img.Logo {
     position:absolute;
     border-radius: 25px;
-    top: 316px;
-    left: 428;
+    margin: 0;
+    left:4px;   top:3px;
+
+
 }
